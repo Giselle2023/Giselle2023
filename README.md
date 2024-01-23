@@ -2,7 +2,7 @@
 Sou estudante de Front-End<br>Estou a procura de Estágio
 
 ![](https://github-readme-stats.vercel.app/api?username=Giselle2023&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Giselle2023&theme=city_light&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Giselle2023&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
